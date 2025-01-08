@@ -1,0 +1,2 @@
+# tekom
+Penentuan Konsentrasi Tekom
